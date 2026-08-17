@@ -1,4 +1,4 @@
 # myLearning
 This is my first Git Repository.
 <br>
-author- Akash Kumar
+author- Akash (myLearning)
